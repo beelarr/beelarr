@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beelarr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beelarr&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Bryons's GitHub stats](https://github-readme-stats.vercel.app/api?username=beelarr&count_private=true&show_icons=true&theme=city_lights&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)

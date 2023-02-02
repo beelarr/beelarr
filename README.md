@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/beelarr/">
   <img
     alt="Providing strategic software consulting. Let's build together."
-    src="https://www.canva.com/design/DAFZcpTDAPw/TiGwydMgt9ZmWXVsJapDDQ/view"
+    src="https://raw.githubusercontent.com/beelarr/beelarr/main/image.png"
   />
 </a>
 
